@@ -83,7 +83,7 @@ main {
 }
 
 .movie-info span.green {
-  color: lightgreen;
+  color: rgb(46, 99, 46);
 }
 
 .movie-info span.orange {
@@ -91,7 +91,7 @@ main {
 }
 
 .movie-info span.red {
-  color: red;
+  color: rgb(199, 110, 15);
 }
 
 .overview {
